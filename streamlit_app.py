@@ -1,5 +1,6 @@
 import streamlit
 
-streamlit.title("Snowflake/Streamlit Practice")
-streamlit.header("This is a sample header")
-streamlit.text("This is some sample text. Pretty nice.")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
